@@ -18,6 +18,15 @@ This project aims to broaden participation in computer science and engineering b
 **NSF Award Amount:** $1,487,350  
 **Program:** Discovery Research K–12 (DRK–12)
 
+**Team of Researchers and Developers (Alphabetic order):**
+- Anany Sharma
+- Dwi Maharrani
+- Megan Barnes
+- Rohan Reddy Kalavakonda
+- Talar Terzian
+- Woorin Hwang
+- Yessy Eka Ambarwati
+
 ---
 
 ## 🧠 What’s in this Repository
