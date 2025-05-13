@@ -40,7 +40,7 @@ This repository contains **open-source resources** developed as part of the curr
 - Researchers in STEM education and AI literacy  
 - Anyone interested in democratizing access to AI and hardware education
 
-No prior programming or electronics experience is required. The curriculum is designed to be **accessible, engaging, and relevant** to learners from diverse backgrounds.
+No prior programming or electronics experience is required. 
 
 ---
 
