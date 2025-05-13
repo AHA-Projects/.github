@@ -9,7 +9,7 @@ Website: [AI Hardware](https://education.ufl.edu/aihardware/)
 
 ## 🔍 Project Overview
 
-This project aims to broaden participation in computer science and engineering by engaging high school students and teachers—especially from under-resourced communities—in hands-on, community-relevant AI and microelectronics experiences. Funded by the NSF Discovery Research K–12 program, this work combines TinyML, low-cost microcontrollers, and open educational practices to develop engineering identity and 21st-century STEM skills.
+This project aims to broaden participation in computer science and engineering by engaging high school students and teachers in hands-on, community-relevant AI and microelectronics experiences. Funded by the NSF Discovery Research K–12 program, this work combines TinyML, low-cost microcontrollers, and open educational practices to develop engineering identity and 21st-century STEM skills.
 
 **Project Duration:** September 15, 2024 – August 31, 2027  
 **Institutions Involved:** University of Florida, University of North Texas, and University of Kansas
