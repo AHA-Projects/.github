@@ -11,8 +11,8 @@ Welcome to the official repository for the **NSF-funded project**:
 This project aims to broaden participation in computer science and engineering by engaging high school students and teachers—especially from under-resourced communities—in hands-on, community-relevant AI and microelectronics experiences. Funded by the NSF Discovery Research K–12 program, this work combines TinyML, low-cost microcontrollers, and open educational practices to develop engineering identity and 21st-century STEM skills.
 
 **Project Duration:** September 15, 2024 – August 31, 2027  
-**Institutions Involved:** University of Florida, Kansas State University, and University of Texas Rio Grande Valley  
-**Lead Investigators:** Pavlo Antonenko, Swarup Bhunia, Andrea Ramirez-Salgado  
+**Institutions Involved:** University of Florida, University of North Texas, and University of Kansas
+**Lead Investigators:** Pavlo Antonenko, Swarup Bhunia, Andrea Ramirez-Salgado, Lauren Eustler, Tamzidul Hoque   
 **NSF Award Amount:** $1,487,350  
 **Program:** Discovery Research K–12 (DRK–12)
 
