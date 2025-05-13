@@ -13,6 +13,7 @@ This project aims to broaden participation in computer science and engineering b
 
 **Project Duration:** September 15, 2024 – August 31, 2027  
 **Institutions Involved:** University of Florida, University of North Texas, and University of Kansas
+
 **Lead Investigators:** Pasha Antonenko, Swarup Bhunia, Andrea Ramirez-Salgado, Lauren Eustler, Tamzidul Hoque   
 **NSF Award Amount:** $1,487,350  
 **Program:** Discovery Research K–12 (DRK–12)
