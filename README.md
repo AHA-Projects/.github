@@ -3,6 +3,7 @@
 Welcome to the official repository for the **NSF-funded project**:
 
 **Award #2405373 — Collaborative Research: Engaging High Schoolers in Integrated Computer Science and Engineering Through Hands-On Experiences with Microelectronics and Artificial Intelligence**
+Website: [AI Hardware](https://education.ufl.edu/aihardware/)
 
 ---
 
@@ -12,7 +13,7 @@ This project aims to broaden participation in computer science and engineering b
 
 **Project Duration:** September 15, 2024 – August 31, 2027  
 **Institutions Involved:** University of Florida, University of North Texas, and University of Kansas
-**Lead Investigators:** Pavlo Antonenko, Swarup Bhunia, Andrea Ramirez-Salgado, Lauren Eustler, Tamzidul Hoque   
+**Lead Investigators:** Pasha Antonenko, Swarup Bhunia, Andrea Ramirez-Salgado, Lauren Eustler, Tamzidul Hoque   
 **NSF Award Amount:** $1,487,350  
 **Program:** Discovery Research K–12 (DRK–12)
 
@@ -29,15 +30,6 @@ This repository contains **open-source resources** developed as part of the curr
 - 🧪 Hands-on activities aligned with real-world, place-based challenges  
 - 📝 Teacher guides, reflection templates, and learning assessment tools
 
----
-
-## 🛠️ Technologies and Tools
-
-- **Arduino Nano 33 BLE Sense / ESP32 / Raspberry Pi Pico**
-- **Edge Impulse** for model training and deployment
-- **TinyML** workflows
-- **Open-source IoT libraries**
-- **Embedded AI (Edge AI)** classification and detection tasks
 
 ---
 
@@ -52,5 +44,4 @@ No prior programming or electronics experience is required. The curriculum is de
 
 ---
 
-## 📂 Repository Structure
 
