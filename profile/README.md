@@ -44,7 +44,7 @@ This repository contains **open-source resources** developed as part of the curr
 
 ## ⚡️ Our Edge AI Approach with Edge Impulse
 
-Our curriculum leverages **Edge Impulse** as a core platform to empower high schoolers in developing and deploying AI solutions directly on embedded systems. We've designed the **AHA Board**, a custom electrical circuit board equipped with various sensors (light, heart rate, motion, etc.). This board serves as the primary tool for students to:
+Our curriculum leverages **Edge Impulse** as a core platform to empower students in developing and deploying AI solutions directly on embedded systems. We've designed the **AHA Board**, a custom electrical circuit board equipped with various sensors (light, heart rate, motion, etc.). This board serves as the primary tool for students to:
 
 1.  **Collect and Engineer Data:** Students gather real-world sensor data from the AHA Board, learning essential data acquisition and pre-processing techniques.
 2.  **Train Edge AI Models:** Using Edge Impulse, students train machine learning models based on their collected data.
